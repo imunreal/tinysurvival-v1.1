@@ -1,0 +1,27 @@
+v1.1 Sprint goals
+- fix map bug --done, unique map for 0,0 is still in program files but no longer called.
+- fix issue with unicorn dialog --done
+- fix goto pause interactions --done
+- Food dissentary text --done
+-mushroom interaction dialog --done
+- fix windcondition key -- done
+
+- inventory --done, will improve for 1.2
+- github repository with readme.md
+- link to bigcommerce and viceversa (free but free to pay)
+- build in map encounter which displays biomes. –planned for 1.2
+- build in walls – planned for 1.2
+- build new common interactions x5 --done
+- build uncommon rare roll factor --done
+- build new rare interactions x8 (reprised to x5 with gob encounter)
+- build new traits –planned for 1.2
+- build new names
+- build help function
+- update game text –planned for 1.2
+- implement color engine and goblin encounter
+- build power cap. –planned for 1.2
+- build power spawning enemies –planned for 1.2
+- build in tiredness. –planned for 1.2
+- build in rested meter
+- build in movement modifier –planned for 1.2
+- build 1x new conditional damage. –planned for 1.2
